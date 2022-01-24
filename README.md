@@ -1,5 +1,5 @@
 # MMA predictor
-Practice for data cleaning/transformation
+Practice for data cleaning/transformation, EDA and visualization.
 Playing around with ML models to try and predict fight outcomes
 
 Future directions:
